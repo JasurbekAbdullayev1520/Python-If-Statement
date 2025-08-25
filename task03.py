@@ -1,7 +1,7 @@
 harf=str(input("Harf kiritng:"))
 
-if harf== in(A,Z):
+if 'A'<=harf<='Z':
     print("Harf katta")
 
-if harf=='a''z':
+if 'a'<=harf<='z':
     print("Harf kichkina")
