@@ -43,8 +43,7 @@ Raqam boshidagi kodga qarab operatorni aniqlang:
 
 **Vazifa:**
 Foydalanuvchidan email manzilini kiriting.
-Email manzili quyidagi shartlarni qanoatlantirishi kerak:
-
+Email manzili quyidagi shartlarni qanoatlantirishi kerak
 * @ belgisi bo‘lishi
 * @ dan keyin nuqta (.) bo‘lishi
 * Bo‘sh joy bo‘lmasligi
